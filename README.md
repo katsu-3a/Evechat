@@ -30,9 +30,9 @@ https://docs.google.com/spreadsheets/d/1qcbZz3hIvt2T9Xu0pAVUPTS6E5R8jzw5CvkyAQdK
 # 実装予定の機能
 
 # データベース設計
-
+[![Image from Gyazo](https://i.gyazo.com/9e15d7f1d97138ae9844476ff58714d9.png)](https://gyazo.com/9e15d7f1d97138ae9844476ff58714d9)
 # 画面遷移図
-
+[![Image from Gyazo](https://i.gyazo.com/b4fcaf464596217f581898c63f6f59f2.jpg)](https://gyazo.com/b4fcaf464596217f581898c63f6f59f2)
 # 開発環境
 •Ruby on rails
 
